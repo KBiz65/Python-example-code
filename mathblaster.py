@@ -272,5 +272,4 @@ def play_game(user_name=None):
 
 
 seed(a = None, version = 2)
-#questions(1, 4, 1, 0, 0, "Kevin")
 play_game()
